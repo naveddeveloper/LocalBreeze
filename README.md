@@ -99,7 +99,7 @@ If you have any suggestions, feel free to open an issue or contact me on [Instag
 ---
 
 ## Download the APK
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](build\app\outputs\apk\release\app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/naveddeveloper/LocalBreeze/blob/main/localbreeze.apk)
 
 
 Thank you for using **LocalBreeze**! Stay tuned for more updates and features. 😊
